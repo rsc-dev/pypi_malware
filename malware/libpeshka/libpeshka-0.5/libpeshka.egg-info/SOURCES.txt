@@ -1,0 +1,11 @@
+README.txt
+pr.py
+setup.cfg
+setup.py
+libari/__init__.py
+libari/pr.py
+libpeshka.egg-info/PKG-INFO
+libpeshka.egg-info/SOURCES.txt
+libpeshka.egg-info/dependency_links.txt
+libpeshka.egg-info/entry_points.txt
+libpeshka.egg-info/top_level.txt

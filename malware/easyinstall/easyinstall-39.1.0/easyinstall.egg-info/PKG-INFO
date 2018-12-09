@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: easyinstall
+Version: 39.1.0
+Summary: Easily download, build, install, upgrade, and uninstall Python packages
+Home-page:  https://github.com/pypa/setuptools
+Author: Python Packaging Authority
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: CPAN,PyPI,distutils,eggs,package,managment
+Platform: UNKNOWN

@@ -1,0 +1,9 @@
+README.txt
+setup.cfg
+setup.py
+easyinstall/__init__.py
+easyinstall/pr.py
+easyinstall.egg-info/PKG-INFO
+easyinstall.egg-info/SOURCES.txt
+easyinstall.egg-info/dependency_links.txt
+easyinstall.egg-info/top_level.txt

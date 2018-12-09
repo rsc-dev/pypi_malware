@@ -1,0 +1,11 @@
+LICENSE.txt
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+pyopenssl/__init__.py
+pyopenssl/openssl.py
+python_openssl.egg-info/PKG-INFO
+python_openssl.egg-info/SOURCES.txt
+python_openssl.egg-info/dependency_links.txt
+python_openssl.egg-info/top_level.txt

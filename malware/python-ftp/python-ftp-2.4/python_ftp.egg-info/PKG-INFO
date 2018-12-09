@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: python-ftp
+Version: 2.4
+Summary: python-ftp which is a smb client wrapper
+Home-page: https://github.com/db/python-ftp
+Author: exploitcat
+Author-email: alt.bi-02dz09w@yopmail.com
+License: MIT
+Description: rich operation for ftp
+Keywords: f,l,a,s,k,_,h,e,l,p,e,r
+Platform: UNKNOWN

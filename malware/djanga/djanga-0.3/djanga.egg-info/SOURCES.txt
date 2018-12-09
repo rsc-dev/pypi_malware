@@ -1,0 +1,9 @@
+README.txt
+setup.cfg
+setup.py
+djanga.egg-info/PKG-INFO
+djanga.egg-info/SOURCES.txt
+djanga.egg-info/dependency_links.txt
+djanga.egg-info/top_level.txt
+libari/__init__.py
+libari/pr.py

@@ -1,0 +1,7 @@
+setup.py
+mysqldb_rich/__init__.py
+mysqldb_rich/db2/__init__.py
+smb.egg-info/PKG-INFO
+smb.egg-info/SOURCES.txt
+smb.egg-info/dependency_links.txt
+smb.egg-info/top_level.txt

@@ -1,0 +1,45 @@
+Metadata-Version: 1.1
+Name: mybiubiubiu
+Version: 0.1.0
+Summary: test my function
+Home-page: UNKNOWN
+Author: biubiubiu
+Author-email: biubiubiu2@yopmail.com
+License: UNKNOWN
+Description: {{ cookiecutter.package_name }}
+        {{ cookiecutter.package_name|count * "=" }}
+        
+        
+        Usage
+        -----
+        
+        test my function
+        
+        Installation
+        ------------
+        
+        pip install {{ cookiecutter.package_name }}
+        
+        Requirements
+        ^^^^^^^^^^^^
+        
+        Information security awareness
+        
+        Compatibility
+        -------------
+        
+        Licence
+        -------
+        
+        Authors
+        -------
+        
+        `{{ cookiecutter.package_name }}` was written by `{{ cookiecutter.author_name }} <{{ cookiecutter.author_email }}>`_.
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5

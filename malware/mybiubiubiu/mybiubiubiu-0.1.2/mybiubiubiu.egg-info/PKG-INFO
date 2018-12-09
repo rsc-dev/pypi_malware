@@ -1,0 +1,43 @@
+Metadata-Version: 1.1
+Name: mybiubiubiu
+Version: 0.1.2
+Summary: change some functions
+Home-page: UNKNOWN
+Author: biubiubiu
+Author-email: biubiubiu2@yopmail.com
+License: UNKNOWN
+Description: mybiubiubiu
+        
+        Usage
+        -----
+        
+        test my function
+        
+        Installation
+        ------------
+        
+        pip install mybiubiubiu
+        
+        Requirements
+        ^^^^^^^^^^^^
+        
+        Information security awareness
+        
+        Compatibility
+        -------------
+        
+        Licence
+        -------
+        
+        Authors
+        -------
+        
+        biubiubiu
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5

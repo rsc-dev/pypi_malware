@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+mongo/__init__.py
+python_mongo.egg-info/PKG-INFO
+python_mongo.egg-info/SOURCES.txt
+python_mongo.egg-info/dependency_links.txt
+python_mongo.egg-info/requires.txt
+python_mongo.egg-info/top_level.txt

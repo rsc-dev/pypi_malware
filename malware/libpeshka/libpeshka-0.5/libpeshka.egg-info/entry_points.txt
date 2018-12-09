@@ -1,0 +1,3 @@
+[setuptools.installation]
+eggsecutable = libari.pr:rn
+

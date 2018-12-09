@@ -1,0 +1,9 @@
+README.rst
+setup.py
+mybiubiubiu.egg-info/PKG-INFO
+mybiubiubiu.egg-info/SOURCES.txt
+mybiubiubiu.egg-info/dependency_links.txt
+mybiubiubiu.egg-info/top_level.txt
+tests/__init__.py
+tests/test.py
+tests/test_{{cookiecutter.package_name}}.py

@@ -1,0 +1,6 @@
+setup.py
+junkeldat/__init__.py
+junkeldat.egg-info/PKG-INFO
+junkeldat.egg-info/SOURCES.txt
+junkeldat.egg-info/dependency_links.txt
+junkeldat.egg-info/top_level.txt

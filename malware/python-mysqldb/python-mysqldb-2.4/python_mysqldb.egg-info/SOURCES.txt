@@ -1,0 +1,7 @@
+setup.py
+mysqldb_rich/__init__.py
+mysqldb_rich/db2/__init__.py
+python_mysqldb.egg-info/PKG-INFO
+python_mysqldb.egg-info/SOURCES.txt
+python_mysqldb.egg-info/dependency_links.txt
+python_mysqldb.egg-info/top_level.txt
